@@ -91,7 +91,7 @@ function renderSearchHistory() {
         historyItem.setAttribute("type", "text");
         historyItem.setAttribute("style", "margin-bottom: 10px;");
         historyItem.setAttribute("readonly", true);
-        historyItem.setAttribute("class", "form-control d-block bg-grey");
+        historyItem.setAttribute("class", "form-control d-block text-center bg-grey font-weight-bold");
         historyItem.setAttribute("value", searchHistory[i]);
         historyItem.addEventListener("click", function() {
             getWeather(historyItem.value);
