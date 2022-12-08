@@ -11,3 +11,4 @@
 To access my Web APIs Challenge: Code Quiz, please visit the live site at https://ltrapaga.github.io/lauras-weather-dashboard/.
 
 ## Screenshots
+<img width="1199" alt="image" src="https://user-images.githubusercontent.com/115514660/206334159-4394fb04-efe1-44d7-9b13-81afbcf76ab2.png">
